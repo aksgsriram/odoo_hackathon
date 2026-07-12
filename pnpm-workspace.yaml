@@ -1,10 +1,18 @@
+# Workspace Packages
 packages:
-  - '.'
+  - "."
+
+# Supported System Architectures
 supportedArchitectures:
+  # Operating Systems
   os:
     - linux
+
+  # CPU Architectures
   cpu:
     - x64
     - arm64
+
+  # Standard C Library
   libc:
     - glibc
