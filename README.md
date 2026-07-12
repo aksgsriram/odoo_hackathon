@@ -1,3 +1,5 @@
+🚀 AssetFlow – AI-powered Asset Management System
+
 # Enterprise Asset Management System
 
 A modern ERP-based Enterprise Asset Management System developed for the Odoo Hackathon 2026.
@@ -102,6 +104,11 @@ Experience the Enterprise Asset Management System in action by exploring the liv
 ## Team
 
 Developed for the **Odoo Hackathon 2026**.
+
+---
+
+GitHub:
+https://github.com/aksgsriram/odoo_hackathon
 
 ---
 
