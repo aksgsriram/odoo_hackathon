@@ -93,6 +93,12 @@ Experience the Enterprise Asset Management System in action by exploring the liv
 
 ---
 
+## 🎥 Project Demo
+
+▶️ https://youtu.be/LWGZxyq9cms?feature=shared
+
+---
+
 ## Team
 
 Developed for the **Odoo Hackathon 2026**.
