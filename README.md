@@ -1,6 +1,10 @@
 # Enterprise Asset Management System
 
-A modern ERP-based Enterprise Asset Management System developed for the Odoo Hackathon 2026. The application helps organizations efficiently manage assets, employee allocations, maintenance requests, bookings, departments, and asset lifecycle through a secure and user-friendly interface.
+A modern ERP-based Enterprise Asset Management System developed for the Odoo Hackathon 2026.
+
+The application helps organizations efficiently manage assets, employee allocations, maintenance requests, bookings, departments, and the complete asset lifecycle through a secure and user-friendly interface.
+
+---
 
 ## Features
 
@@ -15,6 +19,8 @@ A modern ERP-based Enterprise Asset Management System developed for the Odoo Hac
 - Search, Filter & Reports
 - Responsive Modern UI
 
+---
+
 ## Tech Stack
 
 - React
@@ -23,22 +29,24 @@ A modern ERP-based Enterprise Asset Management System developed for the Odoo Hac
 - Tailwind CSS
 - shadcn/ui
 
+---
+
 ## Getting Started
 
-### Clone the repository
+### Clone the Repository
 
 ```bash
 git clone <repository-url>
 cd enterprise-asset-management-system
 ```
 
-### Install dependencies
+### Install Dependencies
 
 ```bash
 npm install
 ```
 
-### Start the development server
+### Start the Development Server
 
 ```bash
 npm run dev
@@ -46,13 +54,15 @@ npm run dev
 
 The application will be available at:
 
-```
+```text
 http://localhost:5173
 ```
 
+---
+
 ## Project Structure
 
-```
+```text
 src/
 ├── components/
 ├── pages/
@@ -63,6 +73,8 @@ src/
 └── utils/
 ```
 
+---
+
 ## Future Enhancements
 
 - QR Code & Barcode Asset Tracking
@@ -71,6 +83,8 @@ src/
 - Audit Logs
 - Export Reports (PDF & Excel)
 - Multi-Branch Support
+
+---
 
 ## Team
 
